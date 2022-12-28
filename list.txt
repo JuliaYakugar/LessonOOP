@@ -1,0 +1,5 @@
+Cat{ nickname=Milka legs=4 owner=Yulya }
+Dog{ nickname=Sharic legs=4 owner=Anna }
+Duck{ nickname=Donald legs=2 owner=Ivan }
+Eagle{ nickname=Trut legs=2 owner=Ira }
+Dolphin{ nickname=Dora legs=0 owner=Anna }
